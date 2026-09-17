@@ -129,7 +129,7 @@ This mod is licensed under a custom license. Please check [LICENSE.md](LICENSE.m
 
 _This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC._
 
-For business inquiries, please contact us at `submergedamongus@gmail.com`.
+For business inquiries, please contact us at DIscord: antho_off or isax0361.
 
 # Credits
 
