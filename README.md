@@ -60,7 +60,7 @@ Submerged depends on the following mods and modding tools in order to function p
 | Mod                                                       | Version           |
 |-----------------------------------------------------------|-------------------|
 | [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) | `v6.0.0-be.788`   |
-| [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) | `v1.0.2` or later |
+| [Mini.Region.Install](https://github.com/miniduikboot/Mini.RegionInstall) | `v1.2.0` or later |
 
 > [!Note]
 > If you are using the Microsoft Store version of Among Us, you will need to download the `Unity (IL2CPP) for Windows (x64) games` version of BepInEx. Otherwise, you will need to download the `Unity (IL2CPP) for Windows (x86) games` version.
@@ -135,6 +135,9 @@ For business inquiries, please contact us at DIscord: antho_off or isax0361.
 
 - Project Lead
     - [5up](https://twitch.tv/5up/)
+- New developers
+    - [Isax82](https://github.com/Isax820)
+    - [Twitch Antho](https://github.com/Twitch-Antho)
 - Developers
     - [Alexejhero](https://github.com/Alexejhero/)
     - [arctic_zeph](https://twitter.com/arctic_zeph/)
