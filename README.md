@@ -49,7 +49,7 @@ The table below lists the most recent Submerged release for each Among Us versio
 
 |                                       Among Us Version                                        | Submerged Version |                                        Links                                        |
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
-|                                           `v18.0.0`                                           |   `v2026.09.17`   | [Download](https://github.com/Isax820/ReSubmerged/releases/tag/v2026.9.17) | 
+|                                           `v18.0.0`                                           |   `v2026.9.17`   | [Download](https://github.com/Isax820/ReSubmerged/releases/tag/v2026.9.17) | 
 |                                           `v17.1.0`                                           |   `v2025.11.20`   | [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2025.11.20/) | 
 
 
@@ -59,8 +59,8 @@ Submerged depends on the following mods and modding tools in order to function p
 
 | Mod                                                       | Version           |
 |-----------------------------------------------------------|-------------------|
-| [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) | `v6.0.0-be.735`   |
-| [Reactor](https://github.com/nuclearpowered/reactor)      | `v2.5.0` or later |
+| [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) | `v6.0.0-be.788`   |
+| [Reactor](https://github.com/nuclearpowered/reactor)      | `v2.5.1` or later |
 
 > [!Note]
 > If you are using the Microsoft Store version of Among Us, you will need to download the `Unity (IL2CPP) for Windows (x64) games` version of BepInEx. Otherwise, you will need to download the `Unity (IL2CPP) for Windows (x86) games` version.
