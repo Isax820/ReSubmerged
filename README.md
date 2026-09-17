@@ -161,14 +161,5 @@ For business inquiries, please contact us at DIscord: antho_off or isax0361.
     - [acronmd](https://twitter.com/acronmd/)
     - [QueenPb](https://twitter.com/QueenTamandua/)
 - Translators
-    - Dekokiyo - 日本語
-    - ItsNiceCraft - Deutsch
-    - MissJukebox - Español
-    - Monid73 - Русский
-    - PENGUN - Italiano
-    - RevoLou - Português do Brasil
-    - RobinRMC - Nederlands
     - SPRLC - Français
-    - ねろちゃん - 日本語
-    - 阿龍DragonTw - 繁體中文
-    - 黑客Hecker - 简体中文
+
