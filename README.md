@@ -49,21 +49,9 @@ The table below lists the most recent Submerged release for each Among Us versio
 
 |                                       Among Us Version                                        | Submerged Version |                                        Links                                        |
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
+|                                           `v18.0.0`                                           |   `v2026.09.17`   | [Download](https://github.com/Isax820/ReSubmerged/releases/tag/v2026.9.17) | 
 |                                           `v17.1.0`                                           |   `v2025.11.20`   | [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2025.11.20/) | 
-|                                    `v17.0.1`<br>`v17.0.0`                                     |   `v2025.10.22`   | [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2025.10.22/) |
-|                 `v16.1.0`<br>`v16.0.5`<br>`v16.0.3`<br>`v16.0.2`<br>`v16.0.0`                 |    Unavailable    |                                          -                                          |
-|                 `v2024.11.26`<br>`v2024.10.29`<br>`v2024.9.4`<br>`v2024.8.13`                 |   `v2025.1.30`    | [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2025.1.30/)  |
-|                                         `v2024.6.18`                                          |    `v2024.8.1`    |  [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2024.8.1/)  |
-|                                  `v2024.6.4`<br>`v2024.3.5`                                   |   `v2024.3.25`    | [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2024.3.25/)  |
-|                                         `v2023.11.28`                                         |   `v2023.11.29`   | [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2023.11.29/) |
-|                                         `v2023.10.24`                                         |   `v2023.11.2`    | [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2023.11.2/)  |
-|                                 `v2023.7.12`<br>`v2023.7.11`                                  |    `v2023.8.2`    |  [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2023.8.2/)  |
-| `v2023.6.27`<br>`v2023.6.13`<br>`v2023.3.28`<br>`v2023.2.28`<br>`v2022.12.14`<br>`v2022.12.8` |    Unavailable    |                                          -                                          |
-|                                         `v2022.10.25`                                         |   `v2022.10.26`   | [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2022.10.26/) |
-|                                         `v2022.10.18`                                         |    Unavailable    |                                          -                                          |
-|                 `v2022.9.20`<br>`v2022.8.25`<br>`v2022.8.24`<br>`v2022.8.23`                  |   `v2022.8.26`    | [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2022.8.26/)  |
-|                                 `v2022.7.12`<br>`v2022.6.21`                                  |   `v2022.6.23`    | [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2022.6.23/)  |
-|                                 `v2022.4.19`<br>`v2022.3.29`                                  |   `v2022.6.12`    | [Download](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2022.6.12/)  |
+
 
 # Dependencies
 
