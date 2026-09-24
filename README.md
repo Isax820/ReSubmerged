@@ -75,6 +75,8 @@ This mod is only guaranteed to work on Windows operating systems. We have no pla
 
 This mod has been tested and works with the Steam, Epic, itch.io and Microsoft Store versions of Among Us. We do not support or endorse using a pirated version of Among Us with Submerged.
 
+or you can wath a tuto [Youtube](https://www.bing.com/ck/a?!&&p=d4530ea1fa295c8acfe6122f5fedf04d1c1bb9a09c687a26129d05ec0ac4ac83JmltdHM9MTc5MDIwODAwMA&ptn=3&ver=2&hsh=4&fclid=04c961df-3ea8-639d-35c2-760f3f9262cf&psq=installer+la+map+submerged&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1leUJ4MFR1cjV4NA)
+
 ## Installation Steps
 
 1. Download the correct ZIP [release](#releases) based on your Among Us version.
@@ -88,7 +90,7 @@ Alternatively, if you are already using other mods or already have BepInEx insta
 
 # Localization
 
-Submerged is available in the languages listed below. If you would like to help translate Submerged to one of the languages listed below or want to correct a translation, please [open an issue](https://github.com/SubmergedAmongUs/Submerged/issues/new/choose/) or contact us at `submergedamongus@gmail.com`.
+Submerged is available in the languages listed below. If you would like to help translate Submerged to one of the languages listed below or want to correct a translation, please [open an issue](https://github.com/SubmergedAmongUs/Submerged/issues/new/choose/).
 
 | Language                | ❔  |              Status               |
 |-------------------------|:--:|:---------------------------------:|
