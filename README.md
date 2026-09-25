@@ -123,13 +123,11 @@ Submerged is compatible both with official servers and [Impostor](https://github
 
 Any and all contributions are welcome, but please keep in mind that Submerged is a finished project. We will not accept any new major features unless they are very cool 😎. If you want to add new features, please open an issue discussing your proposed changes before creating a pull request.
 
-Additionally feel free to [open an issue](https://github.com/SubmergedAmongUs/Submerged/issues/new/choose/) if you have a feature request, want to report a bug, or basically anything else.
-
-All pull request contributors are required to sign a [CLA](https://gist.github.com/Alexejhero/740d681de944b21948edd940a23f3ff1) (a bot will comment on opened pull requests with instructions).
+Additionally feel free to [open an issue](https://github.com/Isax820/ReSubmerged/issues/new) if you have a feature request, want to report a bug, or basically anything else.
 
 # License
 
-This mod is licensed under a custom license. Please check [LICENSE.md](LICENSE.md) for more information.
+This mod is licensed under a custom license. Please check [LICENSE](LICENSE) for more information.
 
 _This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC._
 
