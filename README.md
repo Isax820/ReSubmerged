@@ -135,7 +135,6 @@ Submerged is available in the languages listed below. If you would like to help 
 | Español (Latinoamérica) | ❌  | Not Translated<br>(Using Español) |
 | Gaeilge                 | ❌  |          Not Translated           |
 | Português               | ❌  |          Not Translated           |
-| 한국어                     | ❌  |          Not Translated           |
 
 # Compatibility
 
